@@ -26,3 +26,5 @@ $(document).ready(function(){
 
 #### More Information
 * [jQuery Home Page](https://jquery.com/)
+##resource
+Learn jQuery in the most social and fun way, with SoloLearn!:https://www.sololearn.com/Course/jQuery/
